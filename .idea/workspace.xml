@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd45ef2a-e4ef-4c42-92b2-a2d419223a4a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/common.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ClassMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ItemHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/TweakApiPerms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddMissionItems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AddMissionItems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddMissionItems.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AddMissionItems.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/AddMissionItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/AddMissionItems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/ClassMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/ClassMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/ItemHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/ItemHelper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/Items.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AddMissionItems/org/mod/requiem/Items.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,10 +14,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="AddMissionItems.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -43,6 +42,7 @@
         <option value="$PROJECT_DIR$/src/org/mod/requiem/Items.java" />
         <option value="$PROJECT_DIR$/src/org/mod/requiem/ClassMap.java" />
         <option value="$PROJECT_DIR$/src/org/mod/requiem/AddMissionItems.java" />
+        <option value="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" />
       </list>
     </option>
   </component>
@@ -176,6 +176,14 @@
       <option name="presentableId" value="Default" />
       <updated>1528340530852</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1528430453256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528430453256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -213,6 +221,13 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/ClassMap.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -246,6 +261,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
         </state>
       </provider>
     </entry>
