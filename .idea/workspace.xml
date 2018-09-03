@@ -2,29 +2,122 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd45ef2a-e4ef-4c42-92b2-a2d419223a4a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/Initiator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/common.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddMissionItems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AddMissionItems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AddMissionItems.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AddMissionItems.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javassist.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/SteamServerJni.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/activation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/annotations.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-codec-1.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/controlsfx-8.40.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/controlsfx-license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/flyway-core-4.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/httpclient-4.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/httpcore-4.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javaws.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jsr305.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jtwitter.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mail.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.23-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/servlet.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/signpost-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/sqlite-jdbc-3.8.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modlauncher.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/allinone/AddMissionItems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/utils/ClassMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/utils/ItemHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/utils/TweakApiPerms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/patcher.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ClassMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/ClassMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ItemHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/ItemHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/TweakApiPerms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/TweakApiPerms.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="393623243">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="8" />
+          <entry key="properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="8" />
+          <entry key="Properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="java" value="214" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="214" />
+          <entry key="PLAIN_TEXT" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AddMissionItems.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/Initiator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ItemList.</find>
+      <find>ItemHelper.</find>
+      <find>props</find>
+      <find>62</find>
+      <find>pelt</find>
+      <find>mission</find>
+      <find>Constants</find>
+      <find>makeNotMissionItem</find>
+      <find>,&quot;false&quot;</find>
+      <find>makeNotMissionItem(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>properties</replace>
+      <replace>AddMissionItems</replace>
+      <replace>ItemHelper.makeNotMissionItem</replace>
+      <replace>, String.valueOf(Initiator.coins)</replace>
+      <replace>makeNotMissionItem(ItemList.</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
@@ -43,14 +136,24 @@
         <option value="$PROJECT_DIR$/src/org/mod/requiem/ClassMap.java" />
         <option value="$PROJECT_DIR$/src/org/mod/requiem/AddMissionItems.java" />
         <option value="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" />
+        <option value="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ItemHelper.java" />
+        <option value="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ClassMap.java" />
+        <option value="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/TweakApiPerms.java" />
+        <option value="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/com/jubaroo/wurm/mods/allinone/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/wurm/mods/allinone/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/wurm/mods/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/wurm/addmissionitems/Initiator.java" />
+        <option value="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/Initiator.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="990" />
+    <option name="x" value="685" />
+    <option name="y" value="55" />
+    <option name="width" value="1120" />
+    <option name="height" value="795" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -73,26 +176,6 @@
               <item name="AddMissionItems" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AddMissionItems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AddMissionItems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mods" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AddMissionItems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AddMissionItems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mods" type="462c0819:PsiDirectoryNode" />
-              <item name="allinone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AddMissionItems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AddMissionItems" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mods" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -102,7 +185,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536017772779" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.7 Common Files/libs" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
@@ -125,44 +212,23 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -189,33 +255,33 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1796875" />
-      <window_info id="Learn" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18993288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -229,54 +295,133 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/ClassMap.java">
+    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/ClassMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/ItemHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/TweakApiPerms.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/Items.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/AddMissionItems.java" />
+    <entry file="jar://$PROJECT_DIR$/server.jar!/com/wurmonline/server/items/ItemTypes.class" />
+    <entry file="jar://$PROJECT_DIR$/server.jar!/com/wurmonline/server/items/ItemTemplateCreator.class" />
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/TweakApiPerms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/ItemHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/ItemHelper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/TweakApiPerms.java">
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/ClassMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/Items.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/logging/Level.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        <state relative-caret-position="226">
+          <caret line="123" column="30" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mod/requiem/AddMissionItems.java">
+    <entry file="file://$PROJECT_DIR$/AddMissionItems.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        <state>
+          <caret selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java">
+    <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/Initiator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="78" selection-start-line="15" selection-start-column="78" selection-end-line="15" selection-end-column="78" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AddMissionItems</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../1.7 Common Files" />
+      <root url="file://$PROJECT_DIR$/../1.7 Common Files/lib" />
+      <root url="file://$PROJECT_DIR$/../1.7 Common Files/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../1.7 Common Files/lib" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../1.7 Common Files" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../1.7 Common Files/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../1.7 Common Files/libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../1.7 Common Files/lib" recursive="false" type="SOURCES" />
+  </library>
+</component>
