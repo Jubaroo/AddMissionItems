@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd45ef2a-e4ef-4c42-92b2-a2d419223a4a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/Initiator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/common.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddMissionItems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AddMissionItems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AddMissionItems.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AddMissionItems.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/javassist.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/SteamServerJni.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/activation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/annotations.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-codec-1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/controlsfx-8.40.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/controlsfx-license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/flyway-core-4.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/httpclient-4.5.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/httpcore-4.4.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/javaws.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jsr305.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jtwitter.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mail.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.23-bin.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mysql-connector.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/signpost-core.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/sqlite-jdbc-3.8.11.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modlauncher.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/allinone/AddMissionItems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/utils/ClassMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/utils/ItemHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AddMissionItems/com/requiem/wurm/mods/utils/TweakApiPerms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/patcher.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/allinone/AddMissionItems.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ClassMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/ClassMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/requiem/wurm/mods/utils/ItemHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/utils/ItemHelper.java" afterDir="false" />
@@ -90,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/Initiator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="17">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -149,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="685" />
     <option name="y" value="55" />
     <option name="width" value="1120" />
@@ -185,7 +151,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536017772779" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536018476742" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../1.7 Common Files/libs" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -253,7 +219,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18993288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -339,8 +306,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/jubaroo/mods/addmissionitems/Initiator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="40" />
         </state>
       </provider>
     </entry>
