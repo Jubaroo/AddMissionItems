@@ -1,4 +1,4 @@
-# Add Mission Items v1.0
+# Add Mission Items v1.1
 
 - Adds items to the mission ruler list.
 - Unzip the archive into the mods folder.
